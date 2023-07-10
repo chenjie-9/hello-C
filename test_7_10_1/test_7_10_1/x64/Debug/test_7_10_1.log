@@ -1,0 +1,8 @@
+﻿  p_7.cpp
+C:\Users\21137\Documents\code\test_7_10_1\test_7_10_1\p_7.cpp(24,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\21137\Documents\code\test_7_10_1\test_7_10_1\p_7.cpp(29,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+C:\Users\21137\Documents\code\test_7_10_1\test_7_10_1\p_7.cpp(29,10): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\21137\Documents\code\test_7_10_1\test_7_10_1\p_7.cpp(29,10): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\21137\Documents\code\test_7_10_1\test_7_10_1\p_7.cpp(29,10): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\21137\Documents\code\test_7_10_1\test_7_10_1\p_7.cpp(22,6): warning C4101: “num”: 未引用的局部变量
+  test_7_10_1.vcxproj -> C:\Users\21137\Documents\code\test_7_10_1\x64\Debug\test_7_10_1.exe
